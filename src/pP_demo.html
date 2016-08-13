@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>pP.js演示demo</title>
+    <link type="text/css" href="css/pP.css">
+    <script type="text/javascript" src="js/pP.js"></script>
+</head>
+<body>
+<div class="click">点击这里</div>
+<script>
+    $(".click").on("click", function () {
+        new Pp({
+            id: "picc",
+            zIndex: "10000",
+            picList: picList,
+            currIndex: startIndex
+        });
+    })
+</script>
+</body>
+</html>
