@@ -1,6 +1,6 @@
 #pP.js
     这是一个图片预览插件(初版)
-    [demo](https://yinshuxun.github.io/pPjs/index.html/)
+[demo](https://yinshuxun.github.io/pPjs/index.html/)
 
 ##使用 
 ```
